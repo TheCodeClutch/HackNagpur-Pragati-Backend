@@ -21,6 +21,7 @@ router.get('/news', (request, response) => {
     })
   })
   .catch(function (error) {
+    console.log(error)
     response.status(200).json({
       err: 'There was some error while fetching the results.'
     })
