@@ -18,7 +18,7 @@ router.get('/news', (request, response) => {
   .then(function (res) {
     console.log('News response: ', res)
     response.status(200).json({
-      message: res
+      message: res.data
     })
   })
   .catch(function (error) {
