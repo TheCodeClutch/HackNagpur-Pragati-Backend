@@ -59,6 +59,12 @@ Link to frontend repo: https://github.com/TheCodeClutch/HackNagpur-Pragati
 2. The Project is hosted on Netlify and is live at https://risewithpragati.netlify.app/
 3. Backend Server is deployed using Heroku
 
+Demo Video: https://youtu.be/t1fvQQTLldQ
+
+## Project UI
+![Web-Pragati](https://github.com/TheCodeClutch/HackNagpur-Pragati/blob/master/images/Web-home.JPG)
+![PWA-Pragati](https://github.com/TheCodeClutch/HackNagpur-Pragati/blob/master/images/PWA-home.jpeg)
+
 ## Contributors
 
 <table>
@@ -72,4 +78,3 @@ Link to frontend repo: https://github.com/TheCodeClutch/HackNagpur-Pragati
     </td>
 </tr>
 </table>
-
