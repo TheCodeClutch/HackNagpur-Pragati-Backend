@@ -16,6 +16,7 @@ router.get( '/team', (request, response) => {
 router.get('/news', (request, response) => {
   axios.get('http://api.mediastack.com/v1/news?access_key=0fe6be7088aff123737658e7e1ddf9e4&keywords=successful%20women&countries=in&limit=50')
   .then(function (res) {
+    console.log('News response: ', res)
     response.status(200).json({
       message: res
     })
