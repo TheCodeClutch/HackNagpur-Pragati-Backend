@@ -6,7 +6,7 @@ module.exports.message = async (number, message) => {
         'url': 'https://rest-api.d7networks.com/secure/send',
         'headers': {
             'Content-Type': 'application/json',
-            'Authorization': 'Basic ZGpocDY2NTE6Y1BGOVRsWnY='
+            'Authorization': 'Basic ZnJzczQ4NTk6aFJPMEFONHM='
         },
         body: JSON.stringify(
             {
